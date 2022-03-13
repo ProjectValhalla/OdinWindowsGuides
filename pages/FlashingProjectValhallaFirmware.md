@@ -9,9 +9,9 @@ There is several way to go to EDL mode, via ADB write command:
 ```
 adb reboot edl
 ```
-Via fastboot by selecting **Emergency Mode**
+Via fastboot by selecting **Emergency Mode**.
 
-Or using key combination by holding **Power Button** + **Volume Up Button**  + **Volume Down Button**
+Or using key combination by holding **Power Button** + **Volume Up Button**  + **Volume Down Button**.
 
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
