@@ -30,3 +30,6 @@ You can see detail information about the release here : [Odin Windows Release Pa
 - `install.wim` or `install.swm` files from a Windows ARM64 release 
 
 ##  Steps :
+- Step 1: [Flashing ProjectValhalla Firmware](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
+- Step 2: [Flashing Windows Bootloader](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsBootloader.md)
+- Step 3: [Installing Windows 11](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/InstallingWindows11.md)
