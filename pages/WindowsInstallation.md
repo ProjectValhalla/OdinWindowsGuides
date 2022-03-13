@@ -1,6 +1,6 @@
 # Windows Installation
 
-## Warnings ⚠️
+## ⚠️ Warning ⚠️
 This is **NOT** an official Windows port made by AYN. AYN will **NOT** provide support for this operating system and installing this may in fact VOID your warranty.
 
 This is a community effort project, and thus we cannot guarantee no issues when attempting to install this port on your Odin.
