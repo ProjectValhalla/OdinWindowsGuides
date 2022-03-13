@@ -41,3 +41,5 @@ Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe
 
 
 If the Odin is not reboot automatically hold Odin power button until it’s rebooted.
+
+#Next Step: [Flashing the Windows Bootloader](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsBootloader.md)
