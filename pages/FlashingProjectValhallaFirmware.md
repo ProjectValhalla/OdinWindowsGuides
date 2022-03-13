@@ -11,17 +11,13 @@ There are three ways to enter EDL mode:
 ### 1. Key Combo (Suggested)
 Hold the Volume Up Button + Volume Down Button while plugging your device into your pc
 
-### Via ADB
+### 2. Via ADB
 Open windows powershell or command prompt and use the ADB write command:
 
 ```adb reboot edl```
 
-### Via fastboot
-by selecting **Emergency Mode**.
-
-### or Using hardware buttons
-- Turn off yur Odin
-- Then, press and hold the **Power Button** + **Volume Up Button**  + **Volume Down Button**. and immediately connect the device to the PC.
+### 3. Via fastboot
+Select **Emergency Mode**.
 
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
