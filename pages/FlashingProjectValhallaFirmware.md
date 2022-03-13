@@ -1,7 +1,7 @@
-# Flashing Windows Firmware
+# Flashing ProjectValhalla Firmware
 🔙 Back to [Windows Installation](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/WindowsInstallation.md)
 
-Extract odin_windows_firmware.7z to your computer.
+Extract project_valhalla_firmware.7z to your computer.
 
 Boot Odin to EDL mode (Qualcomm HS-USB QDLoader 9008).
 

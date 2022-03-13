@@ -17,12 +17,12 @@ Do this at your own risk.
   - This drive needs to be in a **FAT32** format.
 - [QFIL Tool](https://qfiltool.com/category/download)
 - [Android Studio or Android Command Line Tools](https://developer.android.com/studio#downloads) (ADB and Fastboot tools)
-- `odin_windows_firmware.7z`
-- `odin_windows_installer.7z`
+- `project_valhalla_firmware.7z`
 - `boot-odin-base.img` for **Odin-Base** or `boot-odin-pro.img` for **Odin-Pro**
+- `odin_windows_installer.7z`
 - `install.wim` or `install.swm` files from a Windows ARM64 release 
 
 ##  Steps :
-- [Flashing Windows Firmware](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsFirmware.md)
+- [Flashing ProjectValhalla Firmware](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
 - [Flashing Windows Bootloader](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsBootloader.md)
 - [Installing Windows 11](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/InstallingWindows11.md)
