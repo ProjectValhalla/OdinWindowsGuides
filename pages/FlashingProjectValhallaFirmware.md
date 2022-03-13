@@ -19,6 +19,10 @@ Open windows powershell or command prompt and use the ADB write command:
 ### 3. Via fastboot
 Select **Emergency Mode**.
 
+##Setup Qfil
+
+Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe
+
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
 
