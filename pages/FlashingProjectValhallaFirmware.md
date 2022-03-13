@@ -1,5 +1,7 @@
-# Flashing ProjectValhalla Firmware
+
 🔙 Previous Step: [Formatting and Perparing the Odin](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
+
+# Flashing ProjectValhalla Firmware
 
 Extract `project_valhalla_firmware.7z` to your computer.
 
