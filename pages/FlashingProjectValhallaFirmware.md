@@ -6,14 +6,16 @@
 Extract `project_valhalla_firmware.7z` to your computer.
 
 ## Boot Odin to EDL mode (Qualcomm HS-USB QDLoader 9008).
-There are several ways to enter EDL mode:
+There are three ways to enter EDL mode:
+
+### 1. Key Combo (Suggested)
+Hold the Volume Up Button + Volume Down Button while plugging your device into your pc
 
 ### Via ADB
-Write this command:
+Open windows powershell or command prompt and use the ADB write command:
 
-```
-adb reboot edl
-```
+```adb reboot edl```
+
 ### Via fastboot
 by selecting **Emergency Mode**.
 
