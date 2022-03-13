@@ -1,5 +1,6 @@
+🔙 Previous Step: [Formatting and Preparing the Odin](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
+
 # Flashing Windows Bootloader
-🔙 Back to [Windows Installation](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/WindowsInstallation.md)
 
 Make sure you are in Fastboot mode.
 
