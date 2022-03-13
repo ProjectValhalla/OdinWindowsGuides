@@ -30,4 +30,6 @@ You can see detail information about the release here : [Odin Windows Release Pa
 ##  Steps :
 - [Flashing ProjectValhalla Firmware](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
 - [Flashing Windows Bootloader](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsBootloader.md)
-- [Installing Windows 11](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/InstallingWindows11.md)
+- [Installing Windows](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/InstallingWindows.md)
+
+##  Credits :
