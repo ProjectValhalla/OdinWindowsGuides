@@ -29,10 +29,10 @@ Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe
 ## Open QFIL Application and choose Flat Build for Select Build Type.
 ![QFIL Start](/images/qfil_download_start.jpg)
 
-## Click Browse button and select **prog_firehose_ddr.elf** in Select Programmer section.
+## Click Browse button and select **prog_firehose_ddr.elf** in Select Programmer section in the `project_valhalla_firmware` folder.
 ![QFIL Firehose](/images/qfil_firehose.jpg)
 
-## Click Load XML button select all **rawprogram.xml** and **patch.xml**.
+## Click Load XML button select all **rawprogram.xml** and **patch.xml** in the `project_valhalla_firmware` folder.
 ![QFIL Rawprogram](/images/qfil_rawprogram.jpg)
 ![QFIL Patch](/images/qfil_patch.jpg)
 
