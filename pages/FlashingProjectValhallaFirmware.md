@@ -1,9 +1,17 @@
 # Flashing ProjectValhalla Firmware
 🔙 Back to [Windows Installation](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/WindowsInstallation.md)
 
-Extract project_valhalla_firmware.7z to your computer.
+Extract **project_valhalla_firmware.7z** to your computer.
 
-Boot Odin to EDL mode (Qualcomm HS-USB QDLoader 9008).
+## Boot Odin to EDL mode (Qualcomm HS-USB QDLoader 9008).
+There is several way to go to EDL mode, via ADB write command:
+
+```
+adb reboot edl
+```
+Via fastboot by selecting **Emergency Mode**
+
+Or using key combination by holding **Power Button** + **Volume Up Button**  + **Volume Down Button**
 
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
