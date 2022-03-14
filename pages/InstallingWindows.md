@@ -13,7 +13,7 @@ Download [install.wim](https://drive.google.com/file/d/1ArFcrWFRzRd-J8sUqo-oFpyy
 
 Copy `install.wim` to the `/images/` folder in the USB Flash Drive.
 
-Plug to Odin and hit start to begin the installation.
+Plug the flash drive into the USB-C port to Odin and use the power button to to selcet START to begin the installation.
 
 Windows will begin installing. Once there is a blue screen that says "Your device ran into a problem and needs to restart. You can restart", unplug your usb drive from the console and long press the power button to restart the console.
 
