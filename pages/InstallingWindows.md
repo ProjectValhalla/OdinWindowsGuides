@@ -17,6 +17,6 @@ Plug the flash drive into the USB-C port to Odin and use the power button to to 
 
 Windows will begin installing. Once there is a blue screen that says "Your device ran into a problem and needs to restart. You can restart", unplug your usb drive from the console and long press the power button to restart the console.
 
-##Windows is now installed. 
+## Windows is now installed. 
 
 Configure your installation as you normally would while letting Windows finish installing and updating. Enjoy!
