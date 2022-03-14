@@ -13,7 +13,7 @@ To get ARM64 `install.wim` or `install.swm` you need to download it from Microso
 
 Select download and convert to ISO
 
-![Windows Download](/images/windows_download.png)
+![Windows Download](/images/windows_download.jpg)
 
 The latest version of Windows 11 ARM64 that was tested and working without too much problem is **22543.1000** and **22000.556**.
 
