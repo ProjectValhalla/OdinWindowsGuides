@@ -9,7 +9,7 @@ Extract `project_valhalla_firmware.7z` to your computer.
 There are three ways to enter EDL mode:
 
 ### 1. Key Combo (Suggested)
-Hold the Volume Up Button + Volume Down Button while plugging your device into your pc
+With your device powered off, hold the Volume Up Button + Volume Down Button while plugging your device into your pc
 
 ### 2. Via ADB
 Open windows powershell or command prompt and use the ADB write command:
