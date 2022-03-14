@@ -1,19 +1,23 @@
-# Installing Windows 11
-🔙 Back to [Windows Installation](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/WindowsInstallation.md)
+🔙 Previous Step: [Flashing Windows Bootloader](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingWindowsBootloader.md)
 
+# Installing Windows 11
 
 ## Copying Installer Files :
-Extract and copy all content inside `odin_windows_installer.7z` to USB Flash Drive.
+Extract and copy all of the contents inside `odin_windows_installer.7z` to your fat32 formatted USB Flash Drive
 
 ## Preparing Windows Installation Image :
 
-⚠️ Current `odin_windows_installer.7z` is only compatible with Windows 11 release.
+⚠️ Current `odin_windows_installer.7z` is only compatible with Windows 11 release ⚠️
 
-To get ARM64 `install.wim` or `install.swm` you need to download from Microsoft server using [UUPDump](https://uupdump.net) or [UUPMediaCreator](https://github.com/gus33000/UUPMediaCreator).
+To get ARM64 `install.wim` or `install.swm` you need to download it from Microsoft's server using [UUPDump](https://uupdump.net)
 
-Latest version of Windows 11 ARM64 that was tested working without too much problem is **22543.1000** and **22000.556**.
+Select download and convert to ISO
 
-The Windows 11, version 22H2 Insider Preview **10.0.22572.100** are have some problem, like Settings can't be opened.
+![Windows Download](/images/windows download.png)
+
+The latest version of Windows 11 ARM64 that was tested and working without too much problem is **22543.1000** and **22000.556**.
+
+The Windows 11, version 22H2 Insider Preview **10.0.22572.100** has some problems, like Settings can't be opened.
 
 Download the Windows release using `UUPDump` or `UUPMediaCreator` to creating **ISO** image.
 
