@@ -28,4 +28,4 @@ You may also use the fatboot reboot command:
 ```
 fastboot reboot
 ```
-### Step 3: [Installing Windows 11](/pages/InstallingWindows11.md)
+### Step 3: [Installing Windows 11](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/InstallingWindows.md)
