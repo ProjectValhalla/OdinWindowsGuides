@@ -21,7 +21,9 @@ Select **Emergency Mode**.
 
 ## Setup Qfil
 
-Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe
+Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe.
+
+In the bottom right of the program you will see that is says emmc, click on this and change it to ufs.
 
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
