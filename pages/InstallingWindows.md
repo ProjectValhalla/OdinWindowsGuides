@@ -9,31 +9,14 @@ Extract and copy all of the contents inside `odin_windows_installer.7z` to your 
 
 ⚠️ Current `odin_windows_installer.7z` is only compatible with Windows 11 release ⚠️
 
-To get ARM64 `install.wim` or `install.swm` you need to download it from Microsoft's server using [UUPDump](https://uupdump.net)
+Download [install.wim](https://drive.google.com/file/d/1ArFcrWFRzRd-J8sUqo-oFpyy2p_mSS2m/view?usp=sharing) this is the Windows installation file you will need.
 
-Select download and convert to ISO
+Copy `install.wim` to the `/images/` folder in the USB Flash Drive.
 
-![Windows Download](/images/windows_download.jpg)
+Plug to Odin and hit start to begin the installation.
 
-The latest version of Windows 11 ARM64 that was tested and working without too much problem is **22543.1000** and **22000.556**.
+Windows will begin installing. Once there is a blue screen that says "Your device ran into a problem and needs to restart. You can restart", unplug your usb drive from the console and long press the power button to restart the console.
 
-The Windows 11, version 22H2 Insider Preview **10.0.22572.100** has some problems, like Settings can't be opened.
+##Windows is now installed. 
 
-Download the Windows release using `UUPDump` or `UUPMediaCreator` to creating **ISO** image.
-
-Extract the `install.wim` from ISO image:
-
-![Extract install.wim](/images/extract_install_wim.jpg)
-
-The USB Flash Drive is formatted in **FAT32** so the biggest file that can be copied to USB Flash drive is about 4GB.
-If the `install.wim` is bigger than 4GB then it need to be converted to `install.swm` by using DISM tool.
-
-here is the example command for splitting .wim file to .swm files:
-
-```
-Dism /Split-Image /ImageFile:E:\WindowsRelease\install.wim /SWMFile:E:\WindowsRelease\install.swm /FileSize:1000
-```
-
-Copy `install.wim` or `install.swm` to `/images/` folder in USB Flash Drive.
-
-Plug to Odin and start the installation.
+Configure your installation as you normally would while letting Windows finish installing and updating. Enjoy!
