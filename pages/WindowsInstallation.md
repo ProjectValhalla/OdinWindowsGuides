@@ -18,7 +18,7 @@ You can see detail information about the release here : [Odin Windows Release Pa
 - A USB-A to USB-C adapter to plug the flash drive into the C port of the Odin
 
 ### Prerequisite Software:
-- QFIL Tool
+- [QFIL Tool](https://github.com/ProjectValhalla/OdinWindowsGuides/raw/main/images/QPST.zip)
 - [Android Studio or Android Command Line Tools](https://developer.android.com/studio#downloads) (ADB and Fastboot tools)
 - [project_valhalla_firmware.7z](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/project_valhalla_firmware.7z)
 
