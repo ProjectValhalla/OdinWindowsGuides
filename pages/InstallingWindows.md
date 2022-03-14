@@ -9,7 +9,7 @@ Extract and copy all of the contents inside `odin_windows_installer.7z` to your 
 
 ⚠️ Current `odin_windows_installer.7z` is only compatible with Windows 11 release ⚠️
 
-Download [install.wim](https://drive.google.com/file/d/1ArFcrWFRzRd-J8sUqo-oFpyy2p_mSS2m/view?usp=sharing) this is the Windows installation file you will need.
+Download [install.wim](https://drive.google.com/file/d/1ArFcrWFRzRd-J8sUqo-oFpyy2p_mSS2m/view?usp=sharing). This is the Windows installation file you will need.
 
 Copy `install.wim` to the `/images/` folder in the USB Flash Drive.
 
