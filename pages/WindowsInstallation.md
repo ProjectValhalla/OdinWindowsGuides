@@ -20,7 +20,8 @@ You can see detail information about the release here : [Odin Windows Release Pa
 ### Prerequisite Software:
 - [Qualcomm EDL Drivers](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/Qualcomm%20USB%20Driver%20v2.2.0.0%20Setup.zip)
 - [QPST Package which contains the QFIL Tool](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/QPST.zip)
-- [Android Studio or Android Command Line Tools](https://developer.android.com/studio#downloads) (ADB and Fastboot tools)
+- [Google USB Driver](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+- [Android Studio or Android Command Line Tools](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 - [Project Valhalla firmware .7z archive](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/project_valhalla_firmware.7z)
 
 ### Firmware Images and installer files:
