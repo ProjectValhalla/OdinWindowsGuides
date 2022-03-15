@@ -25,7 +25,7 @@ Extract the `Qualcomm_Flash_Image_Loader_v2.0.3.5.zip` and run QFIL.exe.
 
 In the bottom right of the program you will see that is says `Storage Type: emmc`, click on this and change it to `ufs`.
 
-#If at any point you get a failure message in the QFIL program, long press the power button on the Odin until the device boots and restart ELD mode.
+# If at any point you get a failure message in the QFIL program, long press the power button on the Odin until the device boots and restart ELD mode.
 
 ## Click Select Port button and select correct COM Port for Odin.
 ![QFIL ComPort](/images/qfil_comport.jpg)
