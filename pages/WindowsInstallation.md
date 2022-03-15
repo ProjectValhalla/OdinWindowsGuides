@@ -29,7 +29,7 @@ You can see detail information about the release here : [Odin Windows Release Pa
   - [boot-odin-base.img](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/boot-odin-base.img) for **Odin-Base**
   - [boot-odin-pro.img](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/boot-odin-pro.img) for **Odin-Pro**
 - [odin_windows_installer.7z](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/odin_windows_installer.7z)
-- `install.wim` or `install.swm` files from a Windows ARM64 release 
+- [`install.wim`](https://drive.google.com/file/d/1ArFcrWFRzRd-J8sUqo-oFpyy2p_mSS2m/view?usp=sharing) files from a Windows ARM64 release 
 
 ##  Steps :
 - Step 1: [Formatting and Preparing the Odin](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/FlashingProjectValhallaFirmware.md)
