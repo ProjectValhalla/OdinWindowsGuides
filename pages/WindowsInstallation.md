@@ -18,8 +18,8 @@ You can see detail information about the release here : [Odin Windows Release Pa
 - A USB-A to USB-C adapter to plug the flash drive into the C port of the Odin
 
 ### Prerequisite Software:
-- [Qualcomm EDL Drivers](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/Qualcomm%20USB%20Driver%20v2.2.0.0%20Setup.zip)
-- [QPST Package which contains the QFIL Tool](https://github.com/ProjectValhalla/OdinWindowsGuides/blob/main/pages/QPST.zip)
+- [Qualcomm EDL Drivers](https://drive.google.com/file/d/1kAMY2DaYNWyvn787b8ZFvxoPPEbmhRx9/view?usp=sharing)
+- [QPST Package which contains the QFIL Tool](https://drive.google.com/file/d/17C4kT52EuDZMw2opRTOncP-UxlWaxyjC/view?usp=sharing)
 - [Google USB Driver](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 - [Android Studio or Android Command Line Tools](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 - [Project Valhalla firmware .7z archive](https://github.com/ProjectValhalla/OdinWindowsRelease/releases/download/alpha.1/project_valhalla_firmware.7z)
